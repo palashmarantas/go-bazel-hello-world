@@ -1,0 +1,1 @@
+/Users/palashmaran/github.com/palashmarantas/go-bazel-hello-world/main.go

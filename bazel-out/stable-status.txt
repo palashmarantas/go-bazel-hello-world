@@ -1,0 +1,3 @@
+BUILD_EMBED_LABEL 
+BUILD_HOST Palashs-MacBook-Pro.local
+BUILD_USER palashmaran
